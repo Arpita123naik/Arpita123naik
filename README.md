@@ -1,6 +1,6 @@
 # Hi, I'm Arpita Naik 👋
 
-🎓 MCA 2026 | Class Topper | CGPA 9.1 — Angadi Institute of Management & Technology, Belagavi  
+🎓 MCA 2026 | CGPA 9.1 — Angadi Institute of Management & Technology, Belagavi  
 💡 Passionate about AI in Healthcare | Building explainable, real-world AI systems  
 🌍 Based in Karnataka, India | Open to opportunities in Bengaluru & Remote  
 ☁️ AWS Certified | Currently seeking AI/ML Engineer & Data Scientist roles  
