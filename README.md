@@ -47,14 +47,14 @@
 > ✅ Combines neural networks with symbolic reasoning for interpretable predictions  
 > **Tech:** Python · Scikit-learn · SHAP · Django · AWS
 >
-> ### 🎓 Student Management System — Flask CRUD App
+> ### 🎓 [Student Management System — Flask CRUD App](https://github.com/arpita-naik/student-management-system)
 > Web-based system to manage student records efficiently  
 > ✅ Implemented full CRUD operations (Add, Update, Delete, Search)  
 > ✅ Reduced manual record handling by digitizing student data  
 > ✅ Built REST-style routes with Flask and dynamic templates  
 > **Tech:** Python · Flask · HTML · CSS · JSON
 
-### 📦 Inventory Management System — Web App
+### 📦 [Inventory Management System — Web App](https://github.com/arpita-naik/inventory-management-system)
 > Inventory tracking system for managing products and stock levels  
 > ✅ Real-time stock updates and product management  
 > ✅ Prevents data inconsistency with structured database handling  
