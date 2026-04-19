@@ -5,7 +5,7 @@
 🌍 Based in Karnataka, India | Open to opportunities in Bengaluru & Remote  
 ☁️ AWS Certified  
 
-🟢 **Actively seeking full-time roles in AI/ML Engineering, Data Science & Software Development (Available from July 2026)**
+🟢 **Actively seeking full-time roles in AI/ML Engineering, Data Science & Software Development (Available from April 2026)**
 
 ---
 
