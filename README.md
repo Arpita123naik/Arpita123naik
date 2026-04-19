@@ -48,17 +48,17 @@
 > **Tech:** Python · Scikit-learn · SHAP · Django · AWS
 >
 > ### 🎓 Student Management System — Flask CRUD App
-> Web-based application to manage student records with full CRUD functionality  
-> ✅ Add, update, delete, and search students | JSON-based data storage  
-> ✅ Clean UI with dynamic rendering using Flask templates  
+> Web-based system to manage student records efficiently  
+> ✅ Implemented full CRUD operations (Add, Update, Delete, Search)  
+> ✅ Reduced manual record handling by digitizing student data  
+> ✅ Built REST-style routes with Flask and dynamic templates  
 > **Tech:** Python · Flask · HTML · CSS · JSON
 
----
-
 ### 📦 Inventory Management System — Web App
-> System to manage product inventory with real-time tracking and updates  
-> ✅ Add/edit/delete products | Track quantity and availability  
-> ✅ Designed for small business use cases  
+> Inventory tracking system for managing products and stock levels  
+> ✅ Real-time stock updates and product management  
+> ✅ Prevents data inconsistency with structured database handling  
+> ✅ Designed scalable backend for small business use  
 > **Tech:** Python · Flask/Django · MySQL/SQLite · HTML · CSS
 
 ---
@@ -75,7 +75,7 @@
 
 ![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpita-naik&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-naik&layout=compact&theme=default&hide_border=true)
-### 🎓 [Student Management System](https://github.com/your-username/student-management-system)
+![[Student Management System](https://github.com/your-username/student-management-system)
 ...
 
 ---
