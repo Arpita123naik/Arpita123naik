@@ -46,6 +46,20 @@
 > XAI system for heart disease risk prediction with voice-assisted clinical insights  
 > ✅ Combines neural networks with symbolic reasoning for interpretable predictions  
 > **Tech:** Python · Scikit-learn · SHAP · Django · AWS
+>
+> ### 🎓 Student Management System — Flask CRUD App
+> Web-based application to manage student records with full CRUD functionality  
+> ✅ Add, update, delete, and search students | JSON-based data storage  
+> ✅ Clean UI with dynamic rendering using Flask templates  
+> **Tech:** Python · Flask · HTML · CSS · JSON
+
+---
+
+### 📦 Inventory Management System — Web App
+> System to manage product inventory with real-time tracking and updates  
+> ✅ Add/edit/delete products | Track quantity and availability  
+> ✅ Designed for small business use cases  
+> **Tech:** Python · Flask/Django · MySQL/SQLite · HTML · CSS
 
 ---
 
@@ -61,6 +75,8 @@
 
 ![Arpita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpita-naik&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpita-naik&layout=compact&theme=default&hide_border=true)
+### 🎓 [Student Management System](https://github.com/your-username/student-management-system)
+...
 
 ---
 
